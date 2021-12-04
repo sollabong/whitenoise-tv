@@ -19,6 +19,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
+  /* Put the .tv div over the canvas with z(dimension) index */
   z-index: 2;
   background-image: url(./assets/tv.png);
   background-size: cover;
